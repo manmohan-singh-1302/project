@@ -1,0 +1,17 @@
+{
+  "name": "webtrials",
+  "version": "1.0.0",
+  "description": "this is an attempt to create a web page ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "manmohanandspy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
